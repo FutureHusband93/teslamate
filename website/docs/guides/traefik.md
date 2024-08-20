@@ -169,7 +169,7 @@ teslamate:$2y$10$f7PB3UF3PNzqMIXZmf1dIefOkrv/15Xt6Xw3pzc6mkS/B5qoWBdAG
 
 ## Usage
 
-Start the stack with `docker compose up -d`.
+Start the stack with `docker-compose up -d`.
 
 1. Open the web interface https://teslamate.example.com
 2. Sign in with your Tesla account
